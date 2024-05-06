@@ -1,0 +1,13 @@
+{
+    "Datos_medicos": {
+        "123": {
+            "Identificacion": 123,
+            "Nombre": "fdd",
+            "Apellido": "ddsd",
+            "Nconsultorio": 8,
+            "CorreoE": "ddsfdf",
+            "HorarioA": "Tarde",
+            "especialidad": "Ginecologia"
+        }
+    }
+}
